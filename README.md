@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Amir 👋
 
-<!--
-**Ghostmonday/Ghostmonday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder @ [Neural Draft LLC](https://neuraldraft.net)** — Engineering tomorrow's digital infrastructure.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Status |
+|---------|-------------|--------|
+| **KryptoClaw** | Security-first crypto wallet for iOS | 🔐 Beta |
+| **VibeZ** | Real-time presence platform | 🎯 Coming Soon |
+| **Goldleaves** | AI-powered legal automation | ⚖️ Active |
+| **DailyGlow** | iOS affirmation app | 🌟 Live |
+
+## 💻 Tech Stack
+
+```
+Swift • React • Python • FastAPI • Web3 • Node.js
+```
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ghostmonday&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+*Building secure, elegant solutions for the decentralized future.*
